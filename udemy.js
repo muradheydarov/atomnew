@@ -1,8 +1,3 @@
-var a = 8;
-    b = 9;
-if (a > b){
-alert("test")
-}else if (b > a) {
-  alert ('test2')
-}
-console.log(a);
+var x = 8;
+    y = 9
+alert((x + y == 1) ? 'Murad' : 'Kamran');
