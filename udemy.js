@@ -10,7 +10,7 @@
 //     alert("wednesday");
 //     break;
 //
-function emioglu(x, y)
+function add(x, y)
   {
     if (x==8) {
       return "you cant do it";
